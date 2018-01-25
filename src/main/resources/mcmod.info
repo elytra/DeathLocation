@@ -1,0 +1,16 @@
+[
+{
+  "modid": "deathloc",
+  "name": "DeathLocation",
+  "description": "Tells people where they died",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["capitalthree"],
+  "credits": "I love you all",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
